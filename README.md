@@ -1,2 +1,2 @@
-# javaNnotebook
-java笔记
+# nnotebook
+日常工作笔记
